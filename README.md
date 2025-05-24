@@ -1,8 +1,8 @@
 # Hi, I'm Rosa Pereira!
 
-🎓 **Bachelor of Applied Science in Applied Computing**  
+**Bachelor of Applied Science in Applied Computing**  
 *Specialization: Network Operations*  
-📍 Orlando, Florida, USA
+Orlando, Florida, USA
 
 ---
 
@@ -18,7 +18,7 @@ I'm passionate about **hands-on learning** and believe that practical experience
 
 ---
 
-## 🎓 Academic Highlights
+## Academic Highlights
 
 During my studies, I completed a series of courses that provided both theoretical knowledge and practical skills:
 
